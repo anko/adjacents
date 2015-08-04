@@ -1,4 +1,4 @@
-# adjacents
+# adjacents [![](https://img.shields.io/travis/anko/adjacents.svg?style=flat-square)][1]
 
 A function that returns an array of the pairs of adjacent values in the input
 array.  “Adjacent” as in *next to each other in the array*.
@@ -26,4 +26,7 @@ adjacents([ 1, 2, 3, 4 ])
 
 ## License
 
-[ISC](https://en.wikipedia.org/wiki/ISC_license).
+[ISC][2].
+
+[1]: https://travis-ci.org/anko/adjacents
+[2]: https://en.wikipedia.org/wiki/ISC_license
