@@ -1,7 +1,7 @@
 # adjacents
 
-Utility function that returns an array of the pairs of adjacent values in an
-existing array.
+A function that returns an array of the pairs of adjacent values in the input
+array.
 
 For example,
 
@@ -20,3 +20,6 @@ adjacents([ 1, 2, 3, 4 ])
 ```js
 [ [ 1, 2 ], [ 2, 3 ], [ 3, 4 ] ]
 ```
+
+When there aren't enough elements to form pairs (0 or 1), it'll return an empty
+array.
