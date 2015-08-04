@@ -1,7 +1,7 @@
 # adjacents
 
 A function that returns an array of the pairs of adjacent values in the input
-array.  “Adjacent” as in next to each other in the array.
+array.  “Adjacent” as in *next to each other in the array*.
 
 When there aren't enough elements to form pairs (0 or 1), it'll return an empty
 array.
