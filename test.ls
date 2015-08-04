@@ -1,5 +1,5 @@
 test = require \tape
-adj  = require \.
+adj  = require \./index.js
 
 becomes = (input, expected, message) -->
   test message, (t) ->

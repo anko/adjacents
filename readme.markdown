@@ -9,7 +9,7 @@ array.
 ## Example
 
 <!-- !test program
-sed '1 i var adjacents = require(".");console.log(
+sed '1 i var adjacents = require("./index.js");console.log(
 $ a )' | node | head -c -1 -->
 
 <!-- !test in example -->
