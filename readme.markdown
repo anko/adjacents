@@ -1,4 +1,4 @@
-# adjacents [![](https://img.shields.io/npm/v/adjacents.svg?style=flat-square)][1] [![](https://img.shields.io/travis/anko/adjacents.svg?style=flat-square)][2]
+# adjacents [![](https://img.shields.io/npm/v/adjacents.svg?style=flat-square)][1] [![](https://img.shields.io/travis/anko/adjacents.svg?style=flat-square)][2] [![](https://img.shields.io/david/anko/adjacents?style=flat-square)][3]
 
 A function that returns an array of the pairs of adjacent values in the input
 array.  “Adjacent” as in *next to each other in the array*.
@@ -26,8 +26,9 @@ adjacents([ 1, 2, 3, 4 ])
 
 ## License
 
-[ISC][3].
+[ISC][4].
 
 [1]: https://www.npmjs.com/package/adjacents
 [2]: https://travis-ci.org/anko/adjacents
-[3]: https://en.wikipedia.org/wiki/ISC_license
+[3]: https://david-dm.org/anko/adjacents
+[4]: https://en.wikipedia.org/wiki/ISC_license
